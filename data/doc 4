@@ -1,0 +1,5 @@
+The inverted index is to allow fast full-text searches, at a cost of increased processing when a document is added to the database.
+It is easy to develop.
+It is the most popular data structure used in document retrieval systems, used on a large scale for example in search engines.
+Large storage overhead and high maintenance costs on updating, deleting, and inserting.
+Instead of retrieving the data in decreasing order of expected usefulness, the records are retrieved in the order in which they occur in the inverted lists.
