@@ -1,0 +1,11 @@
+Utility-based agents extend goal-based thinking by evaluating actions based on how well they maximize a utility function—essentially a measure of "happiness" or "satisfaction." This approach allows them to make nuanced trade-offs between competing goals or uncertain outcomes.
+Learning agents improve their performance over time based on experience. They modify their behavior by observing the consequences of their actions, adjusting their internal models and decision-making approaches to achieve better outcomes in future interactions.
+Multi-agent systems consist of multiple autonomous agents that interact with each other within an environment. These agents may cooperate toward common goals, compete for resources or exhibit a mix of cooperative and competitive behaviors
+Hierarchical agents organize decision-making across multiple levels, with high-level agents making strategic decisions and delegating specific tasks to lower-level agents. This structure mirrors many human organizations and allows for managing problems at appropriate levels of abstraction.
+Agents are used in a wide range of applications in artificial intelligence, including:
+
+Robotics: Agents can be used to control robots and automate tasks in manufacturing, transportation and other industries.
+Smart homes and buildings: They can be used to control heating, lighting and other systems in smart homes and buildings, optimizing energy use and improving comfort.
+Healthcare: They can be used to monitor patients, provide personalized treatment plans and optimize healthcare resource allocation.
+Finance: They can be used for automated trading, fraud detection and risk management in the financial industry.
+Games: They can be used to create intelligent opponents in games and simulations, providing a more challenging and realistic experience for players.
