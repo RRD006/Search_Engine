@@ -47,7 +47,7 @@ def load_docs(path):
 
 
 if __name__ == "__main__":
-    docs = load_docs("data/docs.txt")
+    docs = load_docs(r"C:\Users\91949\Documents\Search_Engine\data\docs.txt")
     index, lengths = build_index(docs)
 
     print(f"Documents indexed: {len(docs)}")
