@@ -1,0 +1,13 @@
+An artificial intelligence (AI) agent is a software program that can interact with its environment, collect data and use that data to perform self-directed tasks that meet predetermined goals. Humans set goals, but an AI agent independently chooses the best actions it needs to perform to achieve those goals.
+
+For example, consider a customer support AI agent that wants to resolve customer queries. The agent will automatically ask the customer different questions, look up information in internal documents and respond with a solution. Based on the customer responses, it determines if it can resolve the query itself or pass it on to a human.
+
+Key Features of AI Agents
+Autonomous: Act without constant human input and decide next steps from past data like a bookstore bot flags missing invoices.
+Goal‑driven: Optimize for defined objectives like a logistics AI balancing speed, cost and fuel use.
+Perceptive: Gather info from sensors, inputs or APIs like a cybersecurity agent tracking new threats.
+Adaptable: Adjust strategies when situations change.
+Collaborative: Work with humans or other agents toward shared goals like healthcare agents coordinating with patients and doctor.
+Simple reflex agents act based solely on current perceptions using condition-action rules. These agents respond directly to stimuli without considering past experiences or potential future states. They operate on basic "if-then" logic: if a specific condition is detected, execute a corresponding action.
+Model-based reflex agents maintain an internal representation of the world, allowing them to track aspects of the environment they cannot directly observe. This internal model helps them make more informed decisions by considering how the world evolves and how their actions affect it.
+Goal-based agents plan their actions with a specific objective in mind. Unlike reflex agents that respond to immediate stimuli, goal-based agents evaluate how different action sequences might lead toward their defined goal, selecting the path that appears most promising.
