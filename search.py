@@ -64,4 +64,3 @@ if __name__ == "__main__":
         results = search(q, index, idf, docs)
         for doc_id, text in results:
             print(f"[Doc {doc_id}] {text}")
-
